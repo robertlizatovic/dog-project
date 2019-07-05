@@ -8,3 +8,4 @@ saved_models/*
 bottleneck_features/DogVGG16Data.npz
 bottleneck_features/*
 __pycache__
+test_images/*
